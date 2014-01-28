@@ -1,7 +1,7 @@
 {
   "name": "clever-docular-docs",
   "main": "module.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "grunt-docular": "~0.1.2"
   },
@@ -13,7 +13,7 @@
   "collaborators": [
     "Richard Gustin <richard@clevertech.biz>"
   ],
-  "description": "Clevertech Authentication Module",
+  "description": "Docular documentation for CleverStack",
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
@@ -22,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/CleverStack/clever-docular-docs/issues"
   },
-  "description": "Docular documentation for CleverStack",
   "keywords": [
     "cleverstack",
     "cleverstack-module",
