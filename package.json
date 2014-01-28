@@ -13,7 +13,16 @@
   "collaborators": [
     "Richard Gustin <richard@clevertech.biz>"
   ],
-  "description": "",
+  "description": "Clevertech Authentication Module",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CleverStack/clever-docular-docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CleverStack/clever-docular-docs/issues"
+  },
+  "description": "Docular documentation for CleverStack",
   "keywords": [
     "cleverstack",
     "cleverstack-module",
