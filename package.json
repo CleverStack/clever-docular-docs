@@ -1,0 +1,24 @@
+{
+  "name": "clever-docular-docs",
+  "main": "module.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt-docular": "~0.1.2"
+  },
+  "author": {
+    "name": "Clevertech",
+    "email": "info@clevertech.biz",
+    "web": "http://www.clevertech.biz"
+  },
+  "collaborators": [
+    "Richard Gustin <richard@clevertech.biz>"
+  ],
+  "description": "",
+  "keywords": [
+    "cleverstack",
+    "cleverstack-module",
+    "cleverstack-modules",
+    "cleverstack-backend"
+  ],
+  "devDependencies": {}
+}
